@@ -2,7 +2,7 @@
 
 **Behavioral Interview to Research Recruiting Framework**
 
-[Hosted guide](https://gisbi-kim.github.io/graduate-recruiting-guide/graduate_student_selection_guideline_google_style.html)
+[Hosted guide](https://gisbi-kim.github.io/graduate-recruiting-guide/)
 
 대학원생 선발을 위한 행동면접 기반 연구역량 평가 가이드라인입니다. 기업 채용에서 쓰이는 behavioral interview 관점을 연구실 맥락으로 재해석해, 후보자가 현재 완성된 연구자인지보다 **좋은 연구자로 성장할 가능성이 높은지**를 구조적으로 판단하는 데 초점을 둡니다.
 
